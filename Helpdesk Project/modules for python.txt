@@ -1,0 +1,45 @@
+# System Administration & Automation
+os
+subprocess
+shutil
+psutil
+
+# Networking & Security
+socket
+paramiko
+requests
+dnspython
+scapy
+
+# Infrastructure as Code (IaC) & Cloud Automation
+boto3
+google-cloud-sdk
+azure-mgmt
+pyinfra
+
+# Configuration Management & CI/CD
+pyyaml
+jinja2
+gitpython
+docker
+
+# Monitoring & Logging
+logging
+syslog
+prometheus_client
+elasticsearch
+
+# Containers & Kubernetes
+docker
+kubernetes
+
+# Web Scraping & API Testing
+requests
+beautifulsoup4
+selenium
+
+# Database & Storage Management
+sqlite3
+pymysql
+redis
+paramiko
